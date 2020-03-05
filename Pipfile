@@ -12,6 +12,10 @@ scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
 numpy = "*"
+statsmodels = "*"
+quandl = "*"
+geopandas = "*"
+bokeh = "*"
 
 [requires]
 python_version = "3.7"
